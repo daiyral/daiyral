@@ -1,3 +1,4 @@
+
 ### Hi, I'm Daniel a software engineer student that's always looking to improve and learn new things. 
 
 ## About me
@@ -14,10 +15,8 @@
 
 Login/register:
 
-![](logreg.gif)
+![logreg](https://user-images.githubusercontent.com/24852163/124495140-67364000-ddc0-11eb-9a31-30e4004776f0.gif)
 
-Front page:
 
-![](index.gif)
 
 
