@@ -12,5 +12,3 @@
 ## Projects:
 - IdeaHub: a website to share project ideas and find a team to do them (WIP):
 
-
-<img src="https://media.giphy.com/media/3kxkYP6l6L0fvBk0qh/giphy.gif" width="500" height="500"/>
