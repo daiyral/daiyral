@@ -14,7 +14,7 @@
 
 Login/register:
 
-<img src="logreg.gif" width="800" height="450"/>
+![](logreg.gif)
 
 Front page:
 
