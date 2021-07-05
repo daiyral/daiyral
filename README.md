@@ -14,4 +14,4 @@
 
 
 ![](https://media.giphy.com/media/3kxkYP6l6L0fvBk0qh/giphy.gif)
-<img src="https://media.giphy.com/media/3kxkYP6l6L0fvBk0qh/giphy.gif" width="500" height=500"/>
+<img src="https://media.giphy.com/media/3kxkYP6l6L0fvBk0qh/giphy.gif" width="500" height="500"/>
