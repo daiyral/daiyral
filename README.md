@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Daniel a software engineer student that's always looking to improve and learn new things. 
 
-<!--
-**daiyral/daiyral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- I have 4 semesters left
+- 82 GPA 
+- I like making websites in my spare time
+- I'm always looking to collaborate with others 
+- 2021 Goals: Finish my latest website and improve my python skills
+- I love to play drums,guitar and piano.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects:
+- IdeaHub: a website to share project ideas and find a team to do them (WIP):
+
+![](https://media.giphy.com/media/3kxkYP6l6L0fvBk0qh/giphy.gif)
