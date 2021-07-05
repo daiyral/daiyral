@@ -16,15 +16,16 @@
 
 Login/register and main page:
 
-![logreg](https://user-images.githubusercontent.com/24852163/124495772-31de2200-ddc1-11eb-8ab6-7c5cda9e1b5a.gif)
+![logreg](https://user-images.githubusercontent.com/24852163/124497074-04927380-ddc3-11eb-9fef-d227de60a64e.gif)
 
 User profile and projects:
 
-![profile](https://user-images.githubusercontent.com/24852163/124496807-964db100-ddc2-11eb-81a7-c7e25ded227e.gif)
+![profile](https://user-images.githubusercontent.com/24852163/124497111-11af6280-ddc3-11eb-972d-c695549bc6f4.gif)
+
 
 Project and kanban board:
 
-![project](https://user-images.githubusercontent.com/24852163/124496835-a1084600-ddc2-11eb-847e-828e032a475c.gif)
+![project](https://user-images.githubusercontent.com/24852163/124497125-170cad00-ddc3-11eb-8238-fac9b7f9f633.gif)
 
 
 
