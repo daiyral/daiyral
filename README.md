@@ -11,4 +11,12 @@
 
 ## Projects:
 - IdeaHub: a website to share project ideas and find a team to do them (WIP):
+
+Login/register:
+![](logreg.gif)
+
+Front page:
+
 ![](index.gif)
+
+
