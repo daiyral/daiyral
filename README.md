@@ -27,6 +27,10 @@ Project and kanban board:
 
 ![project](https://user-images.githubusercontent.com/24852163/124497125-170cad00-ddc3-11eb-8238-fac9b7f9f633.gif)
 
+ -MineSweeper: Classical game recreated in java using JavaFX:
+ 
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/24852163/128181949-316c2cb2-53f8-493c-b76e-80b0656bce39.gif)
+
 
 
 
